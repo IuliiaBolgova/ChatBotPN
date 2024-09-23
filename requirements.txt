@@ -1,9 +1,4 @@
 absl-py==2.1.0
-aext_assistant
-aext_assistant_server
-aext_core
-aext_core_server
-aext_shared
 aiobotocore
 aiofiles
 aiohttp
@@ -16,7 +11,6 @@ annotated-types==0.6.0
 anyio
 appdirs==1.4.4
 appnope
-appscript
 archspec
 argon2-cffi
 arrow
@@ -53,19 +47,9 @@ chardet
 charset-normalizer
 click
 cloudpickle
-clyent>=0.3.4
 colorama
 colorcet
 comm
-conda
-conda-build
-conda-content-trust
-conda-libmamba-solver
-conda-pack
-conda-package-handling
-conda-repo-cli==1.0.75
-conda-token
-conda-verify==3.4.2
 dacite==1.8.1
 dask
 datashader
@@ -169,7 +153,6 @@ lazy_loader
 lckr_jupyterlab_variableinspector
 libarchive-c
 libclang==18.1.1
-libmambapy
 lightgbm==4.4.0
 linkify-it-py
 llvmlite
@@ -185,7 +168,6 @@ matplotlib-inline
 mccabe
 mdit-py-plugins
 mdurl
-menuinst
 mistune
 ml-dtypes==0.4.0
 more-itertools
@@ -198,7 +180,6 @@ munkres==1.1.4
 mypy
 mypy-extensions
 namex==0.0.8
-navigator-updater
 nbclassic
 nbclient
 nbconvert
@@ -267,10 +248,6 @@ PyJWT
 pylint
 pylint-venv
 pyls-spyder==0.4.0
-pyobjc-core
-pyobjc-framework-Cocoa
-pyobjc-framework-CoreServices
-pyobjc-framework-FSEvents
 pyodbc
 pyOpenSSL
 pyparsing
