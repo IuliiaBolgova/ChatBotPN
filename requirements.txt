@@ -12,7 +12,6 @@ aiosignal
 aiosqlite
 alabaster
 altair
-anaconda-anon-usage
 anaconda-catalogs
 anaconda-client
 anaconda-cloud-auth
