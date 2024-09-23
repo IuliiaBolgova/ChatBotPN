@@ -12,11 +12,6 @@ aiosignal
 aiosqlite
 alabaster
 altair
-anaconda-catalogs
-anaconda-client
-anaconda-cloud-auth
-anaconda-navigator
-anaconda-project
 annotated-types==0.6.0
 anyio
 appdirs==1.4.4
