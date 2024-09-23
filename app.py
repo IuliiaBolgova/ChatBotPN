@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-import spacy
+import spacy, os
 
 app = Flask(__name__)
 nlp = spacy.load("en_core_web_sm")  # Загрузка модели для английского языка
@@ -119,4 +119,5 @@ def chat():
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
 
