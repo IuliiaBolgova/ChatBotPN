@@ -286,7 +286,6 @@ rich
 rope
 rpds-py
 Rtree
-ruamel-yaml-conda
 ruamel.yaml
 s3fs
 scikit-image
